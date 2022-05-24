@@ -32,4 +32,4 @@ const linearSearchGlobal = function(valueToFind, arr) {
         return newArr
     }
 };
-console.log(linearSearchGlobal("c",arr))
+console.log(linearSearchGlobal("d",arr))
